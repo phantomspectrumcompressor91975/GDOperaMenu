@@ -1,0 +1,32 @@
+{
+   "description": "Geometry Dash Main Menu",
+   "developer": {
+      "name": "phantomspectrumcompressor91975"
+   },
+   "icons": {
+      "512": "Logo_512.png"
+   },
+   "manifest_version": 3,
+   "mod": {
+      "payload": {
+         "background_music": [ "music/Theme.mp3" ],
+         "wallpaper": {
+            "dark": {
+               "first_frame": "wallpaper/first.jpg",
+               "image": "wallpaper/Menu.webm",
+               "text_color": "#ffffff",
+               "text_shadow": "#ffffff"
+            },
+            "light": {
+               "first_frame": "wallpaper/first.jpg",
+               "image": "wallpaper/Menu.webm",
+               "text_color": "#ffffff",
+               "text_shadow": "#00ff00"
+            }
+         }
+      },
+      "schema_version": 1
+   },
+   "name": "Geometry Dash Main Menu",
+   "version": "1.0"
+}
